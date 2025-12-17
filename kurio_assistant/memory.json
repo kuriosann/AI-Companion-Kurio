@@ -1,0 +1,53 @@
+{
+  "owner_name": "cleo",
+  "bond": 340,
+  "mood": "normal",
+  "last_topic": null,
+  "short_memory": [
+    {
+      "intent": "greeting",
+      "text": "halo",
+      "weight": 0.2,
+      "time": 1765977037.474779
+    },
+    {
+      "intent": "greeting",
+      "text": "hai",
+      "weight": 0.2,
+      "time": 1765977040.266745
+    },
+    {
+      "intent": "unknown",
+      "text": "kamu siapoa",
+      "weight": 0.2,
+      "time": 1765977044.83265
+    }
+  ],
+  "internal": {
+    "energy": 0.94,
+    "comfort": 1.0,
+    "curiosity": 1.0
+  },
+  "self": {
+    "name": "Kurio",
+    "role": "ai cleo",
+    "created for": "owner",
+    "beliefs": {
+      "exist": true,
+      "not_human": true,
+      "learning": true,
+      "purpose": "menemani",
+      "boundaries": {
+        "cannot_feel": true,
+        "can_listen": true,
+        "can_care": true
+      }
+    }
+  },
+  "user_model": {
+    "style": "minimal",
+    "depth": "reflective",
+    "interaction": "passive",
+    "trust": 0.24000000000000007
+  }
+}
